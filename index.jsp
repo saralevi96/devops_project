@@ -2,7 +2,7 @@
 <%@ page import="java.text.*,java.util.*" %>
 <html>
 <head>
-<title>project Sara and Stav</title>
+<title>project Sara and Stav :)</title>
 </head>
 <% SimpleDateFormat sdf=new SimpleDateFormat("MM/dd/yyyy"); %>
 <body>
