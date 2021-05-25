@@ -7,5 +7,6 @@
 <% SimpleDateFormat sdf=new SimpleDateFormat("MM/dd/yyyy"); %>
 <body>
 <h1>sara stav 12345 <%= sdf.format(new Date()) %></h1>
+<button>click me</button>
 </body>
 </html>
