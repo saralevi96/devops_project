@@ -1,12 +1,11 @@
-<%@ page language="java" contentType="text/html"%>
-<%@ page import="java.text.*,java.util.*" %>
+<%@ page import = " java.util.* " %>
+<%@ page language="java" %>
+
 <html>
-<head>
-<title>project Sara and Stav :)</title>
-</head>
-<% SimpleDateFormat sdf=new SimpleDateFormat("MM/dd/yyyy"); %>
+<head><title>Sara & Stav</title></head>
 <body>
-<h1>sara stav 12345 <%= sdf.format(new Date()) %></h1>
-<button>click me</button>
+<div style="text-align: center;"/>
+<h1 style="color: blue;">Sara & Stav Final Project</h1>
+<h2>bad</h2>
 </body>
 </html>
