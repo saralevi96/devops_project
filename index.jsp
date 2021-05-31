@@ -9,7 +9,7 @@
   <%
     double num = Math.random();
 	%>
-    <h3>Get a random number</h3>
+    <h3>Get a random number 31/5/21</h3>
 <% 
 if (num > 0.5) {
   
